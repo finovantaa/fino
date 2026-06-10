@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>FINOVANTA Admin</title>
+  <link rel="stylesheet" href="admin.css">
+  <link rel="icon" href="../assets/favicon-uploaded.png" type="image/png">
+</head>
+<body>
+  <main class="admin-shell">
+    <section class="admin-panel login-panel" id="loginPanel">
+      <p class="eyebrow">[ cloudflare admin ]</p>
+      <h1>FINOVANTA Admin</h1>
+      <p class="muted">Enter the password stored in Cloudflare Pages environment variable <code>ADMIN_PASSWORD</code>.</p>
+      <label>Password<input id="passwordInput" type="password" placeholder="Admin password"></label>
+      <button id="loginButton">[ open admin ]</button>
+      <p class="status" id="loginStatus"></p>
+    </section>
+
+    <section class="admin-panel hidden" id="dashboard">
+      <div class="topbar">
+        <div>
+          <p class="eyebrow">[ content control ]</p>
+          <h1>Website editor</h1>
+        </div>
+        <a href="../index.html">Open site →</a>
+      </div>
+
+      <div class="tabs">
+        <button class="active" data-tab="contentTab">Content</button>
+        <button data-tab="requestsTab">Requests</button>
+      </div>
+
+      <section id="contentTab" class="tab active">
+        <h2>Hero</h2>
+        <div class="grid two">
+          <label>Eyebrow<input id="siteEyebrow"></label>
+          <label>Brand<input id="siteBrand"></label>
+        </div>
+        <label>Hero title<textarea id="heroTitle" rows="2"></textarea></label>
+        <label>Hero text<textarea id="heroText" rows="4"></textarea></label>
+        <label>Root note<textarea id="rootNote" rows="3"></textarea></label>
+
+        <div class="section-row">
+          <h2>Services</h2>
+          <button id="addService">[ add service ]</button>
+        </div>
+        <div id="servicesEditor"></div>
+
+        <div class="actions">
+          <button id="saveButton">[ save changes ]</button>
+          <button id="downloadButton">[ download content.json ]</button>
+        </div>
+        <p class="status" id="saveStatus"></p>
+      </section>
+
+      <section id="requestsTab" class="tab">
+        <div class="section-row">
+          <h2>Contact requests</h2>
+          <button id="reloadRequests">[ reload ]</button>
+        </div>
+        <div id="requestsList" class="requests-list"></div>
+      </section>
+    </section>
+  </main>
+  <script src="admin.js"></script>
+</body>
+</html>
