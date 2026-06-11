@@ -1,0 +1,175 @@
+{
+  "site": {
+    "brand": "FINOVANTA",
+    "eyebrow": "[ .001 ]  Paris software company",
+    "heroTitle": "Software infrastructure for business workflows.",
+    "heroText": "FINOVANTA designs, develops and maintains clean digital tools: web applications, automation layers, API integrations and operational dashboards for companies that need reliable execution.",
+    "rootNote": "Practical systems, documented delivery and long-term technical maintenance. Built for companies that need software to stay understandable after launch.",
+    "primaryButton": "[ request consultation ]",
+    "secondaryButton": "[ view service catalog ]"
+  },
+  "services": [
+    {
+      "id": "web-application-starter",
+      "number": "01",
+      "category": "Web application",
+      "tag": "Business-ready",
+      "title": "Web Application Starter",
+      "description": "Landing pages, portals and internal tools with clean architecture.",
+      "price": "€790",
+      "image": "assets/services/web-visual.webp"
+    },
+    {
+      "id": "workflow-automation-setup",
+      "number": "02",
+      "category": "Automation",
+      "tag": "Time-saving",
+      "title": "Workflow Automation Setup",
+      "description": "Automate repetitive operations, notifications and internal workflows.",
+      "price": "€690",
+      "image": "assets/services/automation-visual.webp"
+    },
+    {
+      "id": "api-integration-package",
+      "number": "03",
+      "category": "API integration",
+      "tag": "Connected",
+      "title": "API Integration Package",
+      "description": "Connect services, dashboards and third-party tools through stable APIs.",
+      "price": "€590",
+      "image": "assets/services/api-visual.webp"
+    },
+    {
+      "id": "maintenance-support",
+      "number": "04",
+      "category": "Support",
+      "tag": "Ongoing",
+      "title": "Maintenance & Support",
+      "description": "Updates, monitoring and technical support for stable daily operation.",
+      "price": "€290 / month",
+      "image": "assets/services/support-visual.webp"
+    },
+    {
+      "id": "business-dashboard-builder",
+      "number": "05",
+      "category": "Dashboard",
+      "tag": "Operational clarity",
+      "title": "Business Dashboard Builder",
+      "description": "Custom dashboards for operations, reporting and business visibility.",
+      "price": "€850",
+      "image": "assets/services/dashboard-builder-visual.webp"
+    },
+    {
+      "id": "secure-client-portal",
+      "number": "06",
+      "category": "Client portal",
+      "tag": "Client-ready",
+      "title": "Secure Contact & Client Portal",
+      "description": "Secure client portals and structured request flows for professional services.",
+      "price": "€740",
+      "image": "assets/services/client-portal-visual.webp"
+    },
+    {
+      "id": "website-optimization-rebuild",
+      "number": "07",
+      "category": "Optimization",
+      "tag": "Performance",
+      "title": "Website Optimization & Rebuild",
+      "description": "Improve speed, structure, interface quality and mobile performance.",
+      "price": "€490",
+      "image": "assets/services/website-optimization-visual.webp"
+    },
+    {
+      "id": "deployment-hosting-setup",
+      "number": "08",
+      "category": "Deployment",
+      "tag": "Launch-ready",
+      "title": "Deployment & Hosting Setup",
+      "description": "Deployment, domain, SSL and hosting setup for production-ready projects.",
+      "price": "€390",
+      "image": "assets/services/deployment-hosting-visual.webp"
+    }
+  ],
+  "sections": {
+    "vision": {
+      "code": "[ 01 / vision ]",
+      "title": "We do not build decorative websites.",
+      "text": "Every interface is treated as part of a business process: data input, validation, routing, visibility, handoff and maintenance. The result is a simple front layer over a stable technical core."
+    },
+    "catalog": {
+      "code": "[ 02 / service catalog ]",
+      "title": "Business-ready software services"
+    },
+    "operations": {
+      "code": "[ 03 / operations ]",
+      "title": "Clear process. Minimal noise.",
+      "steps": [
+        {
+          "title": "Scope",
+          "text": "requirements, pages, flows, integrations."
+        },
+        {
+          "title": "Build",
+          "text": "interface, logic, deployment package."
+        },
+        {
+          "title": "Handoff",
+          "text": "documentation, edits, maintenance plan."
+        }
+      ],
+      "terminal": [
+        [
+          "scope",
+          "requirements map created"
+        ],
+        [
+          "secure",
+          "input validation layer prepared"
+        ],
+        [
+          "build",
+          "frontend package compiled"
+        ],
+        [
+          "api",
+          "integration endpoints documented"
+        ],
+        [
+          "deploy",
+          "netlify / vercel / vps compatible"
+        ],
+        [
+          "docs",
+          "handover notes generated"
+        ]
+      ]
+    },
+    "contact": {
+      "code": "[ 04 / contact ]",
+      "title": "Send a project request.",
+      "text": "Describe the system you need: website, portal, automation, integration or maintenance. FINOVANTA will respond with the next step.",
+      "note": "Click any service card button and the form below will be prefilled automatically.",
+      "success": "Request successfully sent. Please wait for a reply to your email."
+    }
+  },
+  "company": {
+    "legalForm": "SASU",
+    "siren": "102 009 321",
+    "base": "Paris, France",
+    "email": "support@finovanta.online",
+    "address": "60 Rue François Ier, 75008 Paris, France",
+    "tva": "FR56102009321",
+    "activity": "Computer programming — APE 62.01Z",
+    "phone": "+33892152706"
+  },
+  "seo": {
+    "homeTitle": "FINOVANTA — Software Systems",
+    "homeDescription": "FINOVANTA designs, develops and maintains software systems, web applications, automation layers and API integrations.",
+    "privacyTitle": "Privacy Policy — FINOVANTA",
+    "termsTitle": "Terms of Service — FINOVANTA"
+  },
+  "legal": {
+    "privacyHtml": "<p class=\"eyebrow\">[ privacy policy ]</p>\n\n\n<h1>Privacy Policy</h1>\n\n\n<p class=\"legal-updated\">Last updated: 10 June 2026</p>\n\n\n<p>FINOVANTA operates this website to present its software development and IT services, receive professional enquiries and communicate with potential or existing clients. This Privacy Policy explains how we collect, use and protect personal information when you visit the website, submit a contact request or otherwise communicate with us.</p>\n\n\n<p>By using this website, you acknowledge that you have read this Privacy Policy and understand how your information may be collected, used and disclosed as described below.</p>\n\n\n<h2>1. Personal information we collect</h2>\n\n\n<p>When we use the term “personal information”, we mean information that identifies you or can reasonably be linked to you. Depending on how you interact with the website, we may collect or process the following categories of information:</p>\n\n\n<ul>\n<li><strong>Contact details</strong>, such as your name, company name, email address, phone number and any information you provide in a request form or email.</li>\n<li><strong>Project and communication information</strong>, including the content of messages, service requests, project descriptions, attachments or details you choose to share with us.</li>\n<li><strong>Technical information</strong>, such as your IP address, browser type, device information, operating system, approximate location, access times and pages viewed.</li>\n<li><strong>Usage information</strong>, including how you navigate the website, which services you view and how you interact with forms or buttons.</li>\n<li><strong>Business transaction information</strong>, where applicable, such as proposal details, invoices, payment confirmations or professional correspondence related to a service agreement.</li>\n</ul>\n\n\n<h2>2. Sources of personal information</h2>\n\n\n<p>We may collect personal information directly from you when you submit a form, send us an email, request a service or provide information during a professional exchange. We may also collect limited technical information automatically through the website, hosting infrastructure, analytics tools or security technologies, including cookies or similar technologies where used.</p>\n\n\n<h2>3. How we use your personal information</h2>\n\n\n<p>FINOVANTA may use personal information for the following purposes:</p>\n\n\n<ul>\n<li><strong>Responding to enquiries</strong> and communicating with you about services, proposals, timelines and project requirements.</li>\n<li><strong>Providing and improving services</strong>, including software development, web applications, automation systems, API integrations, dashboards, deployment and technical maintenance.</li>\n<li><strong>Preparing proposals and agreements</strong>, managing business communication, issuing invoices and maintaining client records.</li>\n<li><strong>Website operation and security</strong>, including monitoring performance, preventing abuse, detecting technical issues and protecting the website from malicious activity.</li>\n<li><strong>Legal and administrative purposes</strong>, including compliance with applicable laws, accounting obligations, dispute resolution and enforcement of our terms or agreements.</li>\n<li><strong>Marketing communication</strong>, only where permitted by law or where you have provided consent, for example to send relevant updates about FINOVANTA services.</li>\n</ul>\n\n\n<h2>4. How we disclose personal information</h2>\n\n\n<p>We do not sell your personal information. We may disclose personal information only where necessary for legitimate business, technical or legal purposes, including:</p>\n\n\n<ul>\n<li>to hosting providers, IT infrastructure providers, email providers, analytics providers, payment or accounting providers and other vendors that help us operate the website and provide services;</li>\n<li>to professional advisers, such as accountants, legal advisers or compliance providers, where required for business administration;</li>\n<li>to public authorities, courts or regulators where required by applicable law or valid legal process;</li>\n<li>in connection with a business transaction, restructuring or legal obligation, where permitted by law.</li>\n</ul>\n\n\n<h2>5. Third-party websites and links</h2>\n\n\n<p>This website may contain links to third-party websites, platforms or services. We are not responsible for the privacy practices, security or content of third-party websites. If you follow external links, you should review the privacy policies and terms of those services.</p>\n\n\n<h2>6. Cookies and similar technologies</h2>\n\n\n<p>The website may use cookies or similar technologies to provide basic functionality, improve performance, understand usage and protect the website. You can usually manage cookies through your browser settings. Disabling cookies may affect some website features.</p>\n\n\n<h2>7. Children’s data</h2>\n\n\n<p>This website and FINOVANTA’s services are intended for business and professional users. We do not knowingly collect personal information from children under the age of majority in their jurisdiction. If you believe that a child has provided us with personal information, please contact us and we will take appropriate steps to delete it.</p>\n\n\n<h2>8. Security and retention</h2>\n\n\n<p>We use reasonable technical and organisational measures to protect personal information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.</p>\n\n\n<p>We retain personal information only for as long as necessary for the purposes described in this Privacy Policy, including to respond to enquiries, provide services, comply with legal obligations, resolve disputes and maintain business records.</p>\n\n\n<h2>9. Your rights and choices</h2>\n\n\n<p>Depending on where you live, you may have rights in relation to your personal information, including:</p>\n\n\n<ul>\n<li>the right to access or know what personal information we hold about you;</li>\n<li>the right to request correction of inaccurate personal information;</li>\n<li>the right to request deletion of personal information;</li>\n<li>the right to request portability of your personal information;</li>\n<li>the right to object to or restrict certain processing activities;</li>\n<li>the right to withdraw consent where processing is based on consent.</li>\n</ul>\n\n\n<p>These rights may be subject to exceptions and limitations under applicable law. We may need to verify your identity before responding to a request.</p>\n\n\n<h2>10. International transfers</h2>\n\n\n<p>Personal information may be transferred, stored or processed outside the country where you live, including where our service providers operate infrastructure. If personal information is transferred outside the European Economic Area or the United Kingdom, we will rely on recognised transfer mechanisms such as the European Commission’s Standard Contractual Clauses, UK equivalent safeguards or an adequacy decision where applicable.</p>\n\n\n<h2>11. Complaints</h2>\n\n\n<p>If you have concerns about how we process your personal information, you may contact us using the details below. If you are located in the European Economic Area or the United Kingdom, you may also have the right to lodge a complaint with your local data protection authority.</p>\n\n\n<h2>12. Changes to this Privacy Policy</h2>\n\n\n<p>We may update this Privacy Policy from time to time to reflect changes in our practices, website functionality or legal requirements. The updated version will be posted on this website with a revised “Last updated” date.</p>\n\n\n<h2>13. Contact</h2>\n\n\n<p>If you have questions about this Privacy Policy or would like to exercise your rights, you can contact FINOVANTA at:</p>\n\n\n<p><strong>Email:</strong> support@finovanta.online<br/>\n<strong>Address:</strong> 60 Rue François Ier, 75008 Paris, France</p>\n\n\n<p>For the purpose of applicable data protection laws, FINOVANTA is the data controller of your personal information.</p>\n\n\n<div class=\"legal-company\">\n<span>Company</span>\n<strong>FINOVANTA — SASU</strong>\n<span>SIREN</span>\n<strong>102 009 321</strong>\n<span>Activity</span>\n<strong>Computer programming — APE 62.01Z</strong>\n</div>",
+    "termsHtml": "<p class=\"eyebrow\">[ terms of service ]</p>\n\n\n<h1>Terms of Service</h1>\n\n\n<p class=\"legal-updated\">Last updated: 10 June 2026</p>\n\n\n<p>Welcome to FINOVANTA. The terms “we”, “us” and “our” refer to FINOVANTA. These Terms of Service govern your access to and use of this website, including its information, content, service descriptions, contact forms and any related professional communication.</p>\n\n\n<p>FINOVANTA provides software development and IT services, including web applications, workflow automation, API integrations, dashboards, deployment support and technical maintenance. By visiting or using this website, submitting a request or communicating with us, you agree to these Terms of Service and our Privacy Policy. If you do not agree, you should not use this website.</p>\n\n\n<h2>1. Website access and use</h2>\n\n\n<p>You may access and use this website for lawful professional and informational purposes only. You represent that any information you provide to us is accurate, current and complete, and that you have the right to provide such information.</p>\n\n\n<p>You must not use the website in a way that could damage, disable, overload or impair the website, interfere with other users, attempt to gain unauthorised access to systems, or use the website for fraudulent, unlawful or malicious activity.</p>\n\n\n<h2>2. Service information</h2>\n\n\n<p>The website presents FINOVANTA’s software and IT service activities. Service descriptions, examples, prices, timelines and visual materials are provided for general information and may be changed at any time without prior notice.</p>\n\n\n<p>Any prices displayed on the website are indicative starting prices unless expressly stated otherwise. Final scope, price, deliverables, payment schedule and timelines are defined separately in a written proposal, quotation, invoice, order confirmation or service agreement.</p>\n\n\n<h2>3. Requests, proposals and project acceptance</h2>\n\n\n<p>Submitting a contact form or service request does not create a binding contract. A project is accepted only when FINOVANTA confirms acceptance in writing and, where applicable, the client accepts the relevant proposal, quote, invoice or agreement.</p>\n\n\n<p>FINOVANTA may accept or decline any request at its discretion. We may request additional information before confirming scope, pricing or delivery dates.</p>\n\n\n<h2>4. Client responsibilities</h2>\n\n\n<p>To allow us to perform services properly, clients are responsible for providing accurate requirements, timely feedback, necessary access credentials, content, assets, legal information and any third-party account details required for the project.</p>\n\n\n<p>Clients are responsible for ensuring that any materials they provide do not infringe third-party rights and comply with applicable laws.</p>\n\n\n<h2>5. Prices, billing and payments</h2>\n\n\n<p>Prices, discounts and promotions may change without prior notice. Unless otherwise stated, prices do not include taxes, third-party fees, hosting fees, domain fees, payment processor fees, software subscriptions or other external costs.</p>\n\n\n<p>Payment terms are defined in the relevant proposal, invoice or agreement. FINOVANTA may suspend work or delivery if required payments are not received on time.</p>\n\n\n<h2>6. Deliverables and revisions</h2>\n\n\n<p>Deliverables may include design files, source code, website files, documentation, deployment configuration, integrations or other technical materials, depending on the agreed scope.</p>\n\n\n<p>Revision rounds, maintenance periods, response times and support conditions are included only where expressly stated in the relevant proposal or agreement. Work outside the agreed scope may require a separate quote.</p>\n\n\n<h2>7. Third-party services and tools</h2>\n\n\n<p>Projects may involve third-party platforms, hosting providers, domain registrars, analytics services, payment processors, APIs, email services, frameworks, libraries or other tools. We are not responsible for the availability, security, pricing, policy changes or performance of third-party services.</p>\n\n\n<p>The client may be required to accept separate terms from third-party providers. Third-party fees are the client’s responsibility unless otherwise agreed in writing.</p>\n\n\n<h2>8. Intellectual property</h2>\n\n\n<p>The website, including its layout, text, graphics, images, logos, code, visual style and other materials, is owned by FINOVANTA or its licensors and is protected by applicable intellectual property laws.</p>\n\n\n<p>You may not copy, reproduce, distribute, modify, publish, display, sell or exploit any part of the website without prior written permission.</p>\n\n\n<p>For client projects, ownership and licensing of deliverables are governed by the relevant proposal or agreement. Unless otherwise agreed, FINOVANTA retains ownership of pre-existing tools, frameworks, know-how, templates, reusable components and internal development methods.</p>\n\n\n<h2>9. Feedback</h2>\n\n\n<p>If you provide ideas, suggestions, feedback or proposals, you grant FINOVANTA the right to use such feedback to improve its services, website and internal processes, without obligation to compensate you, unless otherwise agreed in writing.</p>\n\n\n<h2>10. Privacy</h2>\n\n\n<p>Personal information collected through the website is processed in accordance with our <a href=\"privacy.html\">Privacy Policy</a>. By using the website or submitting a request, you acknowledge that you have read the Privacy Policy.</p>\n\n\n<h2>11. Errors and inaccuracies</h2>\n\n\n<p>The website may contain typographical errors, inaccuracies or omissions, including in service descriptions, prices, examples or availability. We reserve the right to correct errors, update information or modify content at any time without prior notice.</p>\n\n\n<h2>12. Prohibited uses</h2>\n\n\n<p>You must not use the website or services to:</p>\n\n\n<ul>\n<li>violate any applicable law or regulation;</li>\n<li>infringe intellectual property, privacy or other rights;</li>\n<li>transmit malware, spam, phishing content or harmful code;</li>\n<li>attempt to scrape, crawl, reverse engineer or interfere with the website without permission;</li>\n<li>submit false, misleading, abusive, unlawful or malicious content;</li>\n<li>impersonate another person or organisation;</li>\n<li>interfere with the security or operation of the website.</li>\n</ul>\n\n\n<h2>13. Suspension and termination</h2>\n\n\n<p>We may suspend or terminate access to the website or decline to provide services if we believe these Terms have been violated, if required by law, or if continuing the relationship creates legal, technical, security or business risk.</p>\n\n\n<h2>14. Disclaimer of warranties</h2>\n\n\n<p>This website and its content are provided for general information purposes. We do not guarantee that the website will be uninterrupted, secure, error-free or free from harmful components.</p>\n\n\n<p>Except where expressly agreed in writing, services and website content are provided “as is” and “as available”, without warranties of any kind, whether express or implied, to the fullest extent permitted by law.</p>\n\n\n<h2>15. Limitation of liability</h2>\n\n\n<p>To the fullest extent permitted by law, FINOVANTA shall not be liable for indirect, incidental, special, consequential or punitive damages, including loss of profits, revenue, data, business opportunities, goodwill or expected savings arising from website use or services, except where liability cannot be excluded under applicable law.</p>\n\n\n<p>For paid services, FINOVANTA’s total liability, where legally permitted, shall be limited to the amount paid by the client for the specific service giving rise to the claim.</p>\n\n\n<h2>16. Indemnification</h2>\n\n\n<p>You agree to indemnify and hold harmless FINOVANTA, its representatives, contractors and service providers from claims, damages, liabilities, costs or expenses arising from your breach of these Terms, your misuse of the website, your violation of law or your infringement of third-party rights.</p>\n\n\n<h2>17. Severability</h2>\n\n\n<p>If any provision of these Terms is found to be unlawful, void or unenforceable, that provision will be enforced to the maximum extent permitted by law and the remaining provisions will remain in full force and effect.</p>\n\n\n<h2>18. Waiver and entire agreement</h2>\n\n\n<p>Failure by FINOVANTA to enforce any provision of these Terms does not constitute a waiver of that provision. These Terms, together with the Privacy Policy and any written proposal or agreement, constitute the relevant agreement between you and FINOVANTA regarding website use and the applicable services.</p>\n\n\n<h2>19. Assignment</h2>\n\n\n<p>You may not assign or transfer your rights or obligations under these Terms without our prior written consent. FINOVANTA may assign or transfer its rights and obligations where permitted by law.</p>\n\n\n<h2>20. Governing law</h2>\n\n\n<p>These Terms are governed by the laws of France, unless mandatory consumer protection or other applicable laws provide otherwise. Any dispute shall be handled by the competent courts in accordance with applicable law.</p>\n\n\n<h2>21. Changes to these Terms</h2>\n\n\n<p>We may update these Terms from time to time to reflect changes in our website, services, business practices or legal requirements. The updated version will be posted on this page with a revised “Last updated” date. Continued use of the website after changes are posted means that you accept the updated Terms.</p>\n\n\n<h2>22. Contact information</h2>\n\n\n<p>Questions about these Terms of Service should be sent to:</p>\n\n\n<p><strong>Email:</strong> support@finovanta.online<br/>\n<strong>Address:</strong> 60 Rue François Ier, 75008 Paris, France<br/>\n<strong>TVA:</strong> FR56102009321</p>\n\n\n<div class=\"legal-company\">\n<span>Company</span>\n<strong>FINOVANTA — SASU</strong>\n<span>SIREN</span>\n<strong>102 009 321</strong>\n<span>Activity</span>\n<strong>Computer programming — APE 62.01Z</strong>\n</div>"
+  }
+}
